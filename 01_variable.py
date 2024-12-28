@@ -23,5 +23,5 @@ print("Are you a human: "+str(human))
 name,weight,standard= "Hitesh", 83, "A"
 print(name)
 print(weight)
-
+print(standard)
 
