@@ -6,7 +6,7 @@ for i in range(10):
     print(i+1)
     print("hello everyone")  
 #here in range (start, end, gap)
-for i in range(50,60+1,2):
+for i in range(50,60+1,2):#for(initialising i , till value of i , jumps (increament in i))
     print(i)
 #we can also set range as a string
 for i in "Hitesh Soni":
@@ -16,7 +16,7 @@ for i in "Hitesh Soni":
 import time
 for second in range(10,0,-1):
     print(second)
-    time.sleep(1)
+    time.sleep(2)
 print("HAPPY BIRTHDAY !")
 
 #nested loop

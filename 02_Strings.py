@@ -14,7 +14,7 @@ name02= "Tara Chand Soni"
 print(name02.lower())
 name03 = "123"
 name04= "Hitesh0123"
-#This is for checking is the sring is totally digit or not
+#This is for checking is the string is totally digit or not
 print(name03.isdigit())
 print(name04.isdigit())
 #this is to check space if there is any space it will return true
