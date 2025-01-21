@@ -4,7 +4,7 @@
 # while(len(name)==0):
 #     name=input("what is your name")
 # print("HELLO "+ name)
-#other way
+#another Way
 name=None
 while not name:
     name= input("Who are You?")
